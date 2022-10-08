@@ -8,9 +8,9 @@ noel chinaza</a></h1>
 
 -   📫 how to reach me **ninja.beemo@gmail.com**
 
--   📄 know about my experiences <a href="https://noel-chinaza.github.io/noel-chinaza/docs/Resume.pdf" target="blank">resume</a>
+-   📄 know about my experiences <a href="https://noel-chinaza.github.io/noel-chinaza/documents/Resume.pdf" target="blank">resume</a>
 
--   📄 a small presentation of some things i've built <a href="https://noel-chinaza.github.io/noel-chinaza/docs/Final.pdf" target="blank">presentation</a>
+-   📄 a small presentation of some things i've built <a href="https://noel-chinaza.github.io/noel-chinaza/documents/Final.pdf" target="blank">presentation</a>
 
 ---
 
