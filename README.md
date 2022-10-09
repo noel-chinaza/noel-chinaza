@@ -6,6 +6,8 @@ noel chinaza</a></h1>
 
 -   🌱 i also develop professional Mobile applications as well as Web Applications
 
+-   🦉 currently learn WebGL and ThreeJS
+
 -   📫 how to reach me **ninja.beemo@gmail.com**
 
 -   📄 know about my experiences <a href="https://noel-chinaza.github.io/noel-chinaza/documents/Resume.pdf" target="blank">resume</a>
