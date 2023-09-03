@@ -8,9 +8,9 @@ noel chinaza</a></h1>
 
 -   🦉 currently learn WebGL and ThreeJS
 
--   📫 how to reach me **ninja.beemo@gmail.com**
+-   📫 how to reach me **ama.noel.dev@gmail.com**
 
--   📄 know about my experiences <a href="https://noel-chinaza.github.io/noel-chinaza/documents/Resume.pdf" target="blank">resume</a>
+-   📄 know about my experiences <a href="https://noel-chinaza.github.io/noel-chinaza/documents/noel%20%resume%20%v2.pdf" target="blank">resume</a>
 
 -   📄 a small presentation of some things i've built <a href="https://noel-chinaza.github.io/noel-chinaza/documents/Final.pdf" target="blank">presentation</a>
 
